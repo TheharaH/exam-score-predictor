@@ -3,7 +3,7 @@
 The *Exam Score Predictor* is a machine learning tool that predicts a student's next exam score based on their last two exam scores. This application utilizes a regression model, implemented using Flask for the backend and React for the frontend.
 
 ## Dataset
-- *Source*: The dataset is sourced from [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/).
+- *Source*: The dataset is sourced from [UCI Machine Learning Repository](https://archive.ics.uci.edu/dataset/320/student+performance).
 - *Rows*: The dataset contains 33 rows after feature selection.
 
 ## Model Implementation
